@@ -1,5 +1,12 @@
 ﻿<Properties StartupConfiguration="{719B1034-20EF-41AF-B6AC-B64DB45DFDF0}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/FBLoginPageRenderer.cs">
+    <Files>
+      <File FileName="LoginFacebookV2/LoginFacebookV2Page.xaml" Line="7" Column="1" />
+      <File FileName="LoginFacebookV2/Login.xaml" Line="9" Column="1" />
+      <File FileName="LoginFacebookV2/Login.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/FBLoginPageRenderer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
